@@ -91,3 +91,4 @@ plt.show()
  THUS THE FSK (Frequency Shift Keying) IS PERFORMED USING PHYTON
 ```
 # Hardware experiment output waveform.
+![graph (2)](https://github.com/user-attachments/assets/8abeca92-33ca-43bb-82af-1a9f7b474a4b)
