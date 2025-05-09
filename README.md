@@ -84,7 +84,7 @@ plt.show()
 ```
 # Output Waveform
 ```
-![image](https://github.com/user-attachments/assets/c7c03d5c-8f89-4f69-871d-3879b57bf4f0)
+![FSK](https://github.com/user-attachments/assets/47352d4e-d30e-4808-a77a-462c894822b5)
 
 ```
 # Results
